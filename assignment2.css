@@ -1,0 +1,25 @@
+.albumCover{
+width: 200px;
+height: 200px;
+}
+h1{
+color: red;
+text-decoration: underline;
+font-weight: 900;
+}
+p{
+line-height: 5px;
+font-family: 'Arvo', serif;
+font-size: 14px;
+font-kerning: auto;
+}
+.oh{
+  font-family: 'Ultra', serif;
+   font-size: 18px;
+   color: rgb(90, 90, 90);
+   text-decoration: underline;
+}
+body{
+text-align: center;
+background-color: blanchedalmond;
+}
